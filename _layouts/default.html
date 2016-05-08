@@ -21,14 +21,7 @@
             <a class="extra" href="/">home</a>
               <a class="extra" href="http://www.baidu.com">home</a>
           </div>
-            <div id="home">
-                <h1>KingKongLee's Blog Posts</h1>
-                <ul class="posts">
-                    {% for post in site.posts %}
-                    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+          {{ content }}
 
           <div class="footer">
             <div class="contact">
