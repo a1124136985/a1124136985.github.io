@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "博客的第一天!"
-date:   2016-05-09 00:00:00
+date:   2016-05-09
 categories: jekyll update
 ---
 
