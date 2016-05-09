@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "阿!"
+title:  "博客的第一天!"
 date:   2016-05-08 20:06:47
 categories: jekyll update
 ---
