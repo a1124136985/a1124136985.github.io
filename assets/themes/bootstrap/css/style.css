@@ -17,6 +17,7 @@
 body{
   background-image: url("../images/butterfly.jpg");
   background-repeat: no-repeat;
+  background-color: #000000;
 }
 
 h1, h2, h3, h4 {
