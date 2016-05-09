@@ -15,7 +15,8 @@
 
 /* Jekyll Bootstrap Colors */
 body{
-  background-image: url("../images/btu.jpg");
+  background-image: url("../images/butterfly.jpg");
+  background-repeat: no-repeat;
 }
 
 h1, h2, h3, h4 {
