@@ -14,12 +14,17 @@
   float: right; }*/
 
 /* Jekyll Bootstrap Colors */
+body{
+  background-image: url("../images/butterfly.jpg");
+}
+
 h1, h2, h3, h4 {
   color: #f22430;
 }
 #footer {
   background-color: #fdcd60;
 }
+
 
 
 
