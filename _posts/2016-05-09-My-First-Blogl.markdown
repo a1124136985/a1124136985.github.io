@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "!"
+title:  "阿!"
 date:   2016-05-08 20:06:47
 categories: jekyll update
 ---
