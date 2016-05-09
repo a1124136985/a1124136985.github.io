@@ -17,6 +17,7 @@
 body{
   background-image: url("../images/butterfly.jpg");
   background-repeat: no-repeat;
+  overflow: scroll;
 }
 
 h1, h2, h3, h4 {
