@@ -13,7 +13,7 @@ categories: jekyll update
 
  其次是模板开发：<br>
 
- &nbsp;&nbsp;先参见自己站点对应的网站的源代码，会有类似(href="http://***.***.***.***.cn/t/site <em style="color:red"> /7/0a306a9a6a4689d***/ </em>assets/css/slider.css")的一个连接，红色标注区域为你的模板代号：站点7下的0a306***（如果有版本控制的话，需要先把刚刚克隆的代码，放到版本库里面）。
+ &nbsp;&nbsp;先参见自己站点对应的网站的源代码，会有类似(href="http://***.***.***.***.cn/t/site <em style="color:red"> /7/0a306a9a6a4689d***</em>/ assets/css/slider.css")的一个连接，红色标注区域为你的模板代号：站点7下的0a306***（如果有版本控制的话，需要先把刚刚克隆的代码，放到版本库里面）。<br>
  &nbsp;&nbsp;开发page的先后顺序为：template/index.html ==> template/list.html ==> template/app/article/show.html<br>
 
  最后是细节完善<br>
