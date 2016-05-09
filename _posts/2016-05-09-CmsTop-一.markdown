@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "站点云（CmsTop）之前台模板开发·整体步骤介绍"
+date:   2016-05-09 00:00:01
+categories: jekyll update
+---
+
+ 接触站点云开发已经快三个月了，整理一下思路和文档。<br>
+
+ 首先要把握前台模板的开发流程：<br>
+  
+ &nbsp;&nbsp;操作站点云平台：新建分类 ==》新建导航 ==》克隆模板 ==> 添加文章<br>
+
+ 其次是模板开发：<br>
+
+ &nbsp;&nbsp;先参见自己站点对应的网站的源代码，会有类似(href="http://***.***.***.***.cn/t/site<em style="color:red"> /7/0a306a9a6a4689d***/</em>assets/css/slider.css")的一个连接，红色标注区域为你的模板代号：站点7下的0a306***（如果有版本控制的话，需要先把刚刚克隆的代码，放到版本库里面）。
+ &nbsp;&nbsp;开发page的先后顺序为：template/index.html ==> template/list.html ==> template/app/article/show.html<br>
+
+ 最后是细节完善<br>
+
+ 个人觉得这样比较合理，如果任何一个步骤出问题，在下一个步骤就能发现，尽早发现问题，解决起来也不会棘手。
+
+
+
